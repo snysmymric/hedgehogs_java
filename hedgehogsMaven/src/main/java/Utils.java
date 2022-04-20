@@ -12,6 +12,9 @@ public class Utils {
     public static void printLine() {
         System.out.println("============================================");
     }
+    public static void printMidLine() {
+        System.out.println("=================");
+    }
 
     public static int getRandom(int maxInt) {
         return new Random().nextInt(maxInt);
