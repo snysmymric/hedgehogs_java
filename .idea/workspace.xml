@@ -5,18 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="745cfa4e-a81b-4dd2-bed6-da8d10971579" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_beust_jcommander_1_78.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_findbugs_jsr305_3_0_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_12_0.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_32.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_testng_testng_7_5.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_webjars_jquery_3_5_1.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hedgehogsMaven/src/test/java/MainTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hedgehogsMaven/hedgehogsMaven.iml" beforeDir="false" afterPath="$PROJECT_DIR$/hedgehogsMaven/hedgehogsMaven.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hedgehogsMaven/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/hedgehogsMaven/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hedgehogsMaven/src/main/java/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/hedgehogsMaven/src/main/java/MainApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hedgehogsMaven/target/classes/MainApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/hedgehogsMaven/target/classes/MainApp.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +20,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="main" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
