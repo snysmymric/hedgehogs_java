@@ -4,17 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="745cfa4e-a81b-4dd2-bed6-da8d10971579" name="Changes" comment="">
+    <list default="true" id="745cfa4e-a81b-4dd2-bed6-da8d10971579" name="Changes" comment="added files">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hedgehogsMaven/src/main/java/MainApp.java" beforeDir="false" afterPath="$PROJECT_DIR$/hedgehogsMaven/src/main/java/MainApp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hedgehogsMaven/src/main/java/Utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/hedgehogsMaven/src/main/java/Utils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hedgehogsMaven/src/test/java/MainTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/hedgehogsMaven/src/test/java/MainTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hedgehogsMaven/target/classes/MainApp.class" beforeDir="false" afterPath="$PROJECT_DIR$/hedgehogsMaven/target/classes/MainApp.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hedgehogsMaven/target/classes/NewAnna19_04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hedgehogsMaven/target/classes/NewShurik19_04.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/hedgehogsMaven/target/classes/Utils.class" beforeDir="false" afterPath="$PROJECT_DIR$/hedgehogsMaven/target/classes/Utils.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/hedgehogsMaven/target/test-classes/MainTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/hedgehogsMaven/target/test-classes/MainTest.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_19_22__11_55_AM__Changes_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Checkout_at_4_19_22__11_55_AM__Changes_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hedgehogsMaven/target/classes/MainApp.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/hedgehogsMaven/target/classes/Utils.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -28,13 +21,10 @@
       </list>
     </option>
   </component>
-  <component name="Git.Merge.Settings">
-    <option name="BRANCH" value="origin/main" />
-  </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="fedorova" />
+        <entry key="$PROJECT_DIR$" value="IOkunBranch" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -86,8 +76,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.MainTest.testAbbr" />
         <item itemvalue="Application.MainApp" />
         <item itemvalue="TestNG.MainTest.testAbbr" />
+        <item itemvalue="Application.MainApp" />
       </list>
     </recent_temporary>
   </component>
