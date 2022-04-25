@@ -1,2 +1,2 @@
-public class IrynaOkunClass {
+public class IrynaOkunClass{
 }
